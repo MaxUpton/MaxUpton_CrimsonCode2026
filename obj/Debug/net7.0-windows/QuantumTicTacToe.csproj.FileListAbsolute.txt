@@ -1,0 +1,15 @@
+C:\Users\maxim\OneDrive\QuantumTicTacToe\MaxUpton_CrimsonCode2026\bin\Debug\net7.0-windows\QuantumTicTacToe.exe
+C:\Users\maxim\OneDrive\QuantumTicTacToe\MaxUpton_CrimsonCode2026\bin\Debug\net7.0-windows\QuantumTicTacToe.deps.json
+C:\Users\maxim\OneDrive\QuantumTicTacToe\MaxUpton_CrimsonCode2026\bin\Debug\net7.0-windows\QuantumTicTacToe.runtimeconfig.json
+C:\Users\maxim\OneDrive\QuantumTicTacToe\MaxUpton_CrimsonCode2026\bin\Debug\net7.0-windows\QuantumTicTacToe.dll
+C:\Users\maxim\OneDrive\QuantumTicTacToe\MaxUpton_CrimsonCode2026\bin\Debug\net7.0-windows\QuantumTicTacToe.pdb
+C:\Users\maxim\OneDrive\QuantumTicTacToe\MaxUpton_CrimsonCode2026\obj\Debug\net7.0-windows\QuantumTicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxim\OneDrive\QuantumTicTacToe\MaxUpton_CrimsonCode2026\obj\Debug\net7.0-windows\QuantumTicTacToe.AssemblyInfoInputs.cache
+C:\Users\maxim\OneDrive\QuantumTicTacToe\MaxUpton_CrimsonCode2026\obj\Debug\net7.0-windows\QuantumTicTacToe.AssemblyInfo.cs
+C:\Users\maxim\OneDrive\QuantumTicTacToe\MaxUpton_CrimsonCode2026\obj\Debug\net7.0-windows\QuantumTicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\maxim\OneDrive\QuantumTicTacToe\MaxUpton_CrimsonCode2026\obj\Debug\net7.0-windows\QuantumTicTacToe.sourcelink.json
+C:\Users\maxim\OneDrive\QuantumTicTacToe\MaxUpton_CrimsonCode2026\obj\Debug\net7.0-windows\QuantumTicTacToe.dll
+C:\Users\maxim\OneDrive\QuantumTicTacToe\MaxUpton_CrimsonCode2026\obj\Debug\net7.0-windows\refint\QuantumTicTacToe.dll
+C:\Users\maxim\OneDrive\QuantumTicTacToe\MaxUpton_CrimsonCode2026\obj\Debug\net7.0-windows\QuantumTicTacToe.pdb
+C:\Users\maxim\OneDrive\QuantumTicTacToe\MaxUpton_CrimsonCode2026\obj\Debug\net7.0-windows\QuantumTicTacToe.genruntimeconfig.cache
+C:\Users\maxim\OneDrive\QuantumTicTacToe\MaxUpton_CrimsonCode2026\obj\Debug\net7.0-windows\ref\QuantumTicTacToe.dll
