@@ -1,6 +1,6 @@
 # MaxUpton_CrimsonCode2026
 
-This solution contains two projects:
+This solution contains three projects:
 
 * **QuantumTicTacToe.Engine** – a class library with all of the game logic
   (board, moves, cycle detection, collapse, win rules, history, etc.).
@@ -10,16 +10,10 @@ This solution contains two projects:
 * **QuantumTicTacToe** – a WinForms application that references the engine
   library and provides a simple desktop UI. It targets `net7.0-windows`.
 
-## Building
+* **QuantumTicTacToe** - a Unity application that references the engine
+  library and provides a more advanced game UI.
 
-Run `dotnet build` at the solution root to compile both projects. The engine
-assembly will be produced in `Engine/bin/Debug/netstandard2.1`.
+The unity project is the culmination of my work on the other two 
+and what I am submitting for judgment at the 2026 crimson code hackathon
 
-## Unity integration
 
-To port the game into Unity, copy `QuantumTicTacToe.Engine.dll` from the
-engine project's output into your Unity project's `Assets/Plugins` folder.
-Then add `using QuantumTicTacToe;` in your scripts and invoke the public API.
-
-The WinForms code is intentionally isolated in the executable project and is
-**not** included in the library, so it will have no effect in Unity.
