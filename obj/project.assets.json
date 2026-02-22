@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net7.0-windows7.0": {}
+    "net7.0-windows7.0": {
+      "QuantumTicTacToe.Engine/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "compile": {
+          "bin/placeholder/QuantumTicTacToe.Engine.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/QuantumTicTacToe.Engine.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "QuantumTicTacToe.Engine/1.0.0": {
+      "type": "project",
+      "path": "Engine/QuantumTicTacToe.Engine.csproj",
+      "msbuildProject": "Engine/QuantumTicTacToe.Engine.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net7.0-windows7.0": []
+    "net7.0-windows7.0": [
+      "QuantumTicTacToe.Engine >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\maxim\\.nuget\\packages\\": {},
@@ -38,7 +57,11 @@
       "frameworks": {
         "net7.0-windows7.0": {
           "targetAlias": "net7.0-windows",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\maxim\\OneDrive\\QuantumTicTacToe\\MaxUpton_CrimsonCode2026\\Engine\\QuantumTicTacToe.Engine.csproj": {
+              "projectPath": "C:\\Users\\maxim\\OneDrive\\QuantumTicTacToe\\MaxUpton_CrimsonCode2026\\Engine\\QuantumTicTacToe.Engine.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

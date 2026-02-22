@@ -7,14 +7,30 @@
   "targets": {
     ".NETCoreApp,Version=v7.0": {
       "QuantumTicTacToe/1.0.0": {
+        "dependencies": {
+          "QuantumTicTacToe.Engine": "1.0.0"
+        },
         "runtime": {
           "QuantumTicTacToe.dll": {}
+        }
+      },
+      "QuantumTicTacToe.Engine/1.0.0": {
+        "runtime": {
+          "QuantumTicTacToe.Engine.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
   },
   "libraries": {
     "QuantumTicTacToe/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "QuantumTicTacToe.Engine/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

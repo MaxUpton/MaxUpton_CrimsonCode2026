@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("QuantumTicTacToe")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e4d913e191eb6aabb9a6543fbb7f7dd592806938")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6fb7983ede1ac1fce04a26c168f4b6c0c98901b6")]
 [assembly: System.Reflection.AssemblyProductAttribute("QuantumTicTacToe")]
 [assembly: System.Reflection.AssemblyTitleAttribute("QuantumTicTacToe")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

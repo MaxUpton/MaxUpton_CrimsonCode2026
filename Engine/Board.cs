@@ -207,5 +207,14 @@ namespace QuantumTicTacToe
         }
 
         // TODO: implement cycle detection and collapse logic
+        public bool IsCellCollapsed(int index)
+        {
+            if (index < 0 || index >= 9)
+            {
+                throw new ArgumentOutOfRangeException(nameof(index));
+            }
+            return _cells[index].IsCollapsed;
+             
+        }
     }
 }

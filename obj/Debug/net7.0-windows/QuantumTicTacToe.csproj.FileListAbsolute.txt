@@ -13,3 +13,7 @@ C:\Users\maxim\OneDrive\QuantumTicTacToe\MaxUpton_CrimsonCode2026\obj\Debug\net7
 C:\Users\maxim\OneDrive\QuantumTicTacToe\MaxUpton_CrimsonCode2026\obj\Debug\net7.0-windows\QuantumTicTacToe.pdb
 C:\Users\maxim\OneDrive\QuantumTicTacToe\MaxUpton_CrimsonCode2026\obj\Debug\net7.0-windows\QuantumTicTacToe.genruntimeconfig.cache
 C:\Users\maxim\OneDrive\QuantumTicTacToe\MaxUpton_CrimsonCode2026\obj\Debug\net7.0-windows\ref\QuantumTicTacToe.dll
+C:\Users\maxim\OneDrive\QuantumTicTacToe\MaxUpton_CrimsonCode2026\obj\Debug\net7.0-windows\QuantumTicTacToe.csproj.AssemblyReference.cache
+C:\Users\maxim\OneDrive\QuantumTicTacToe\MaxUpton_CrimsonCode2026\bin\Debug\net7.0-windows\QuantumTicTacToe.Engine.dll
+C:\Users\maxim\OneDrive\QuantumTicTacToe\MaxUpton_CrimsonCode2026\bin\Debug\net7.0-windows\QuantumTicTacToe.Engine.pdb
+C:\Users\maxim\OneDrive\QuantumTicTacToe\MaxUpton_CrimsonCode2026\obj\Debug\net7.0-windows\QuantumT.4EE03870.Up2Date
