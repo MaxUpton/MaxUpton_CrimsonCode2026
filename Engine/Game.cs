@@ -135,20 +135,30 @@ namespace QuantumTicTacToe
         private void CheckForWin()
         {
             var winners = _board.GetWinners();
-            if (winners.Count == 0)
+            
+            // Check for winner
+            if (winners.Count > 0)
+            {
+                _isOver = true;
+
+                string result;
+                if (winners.Count == 1)
+                    result = winners.First() + " wins!";
+                else
+                    result = _movesByX < _movesByO ? "X wins by fewer turns!"
+                            : _movesByO < _movesByX ? "O wins by fewer turns!"
+                            : "Draw!";
+
+                GameOver?.Invoke(this, result);
                 return;
+            }
 
-            _isOver = true;
-
-            string result;
-            if (winners.Count == 1)
-                result = winners.First() + " wins!";
-            else
-                result = _movesByX < _movesByO ? "X wins by fewer turns!"
-                        : _movesByO < _movesByX ? "O wins by fewer turns!"
-                        : "Draw!";
-
-            GameOver?.Invoke(this, result);
+            // Check for draw (board full, no winner)
+            if (_board.IsFull())
+            {
+                _isOver = true;
+                GameOver?.Invoke(this, "Draw - Board Full!");
+            }
         }
 
         public static Dictionary<Move, int> OrientCycle(List<Move> cycle, int winnerCell)

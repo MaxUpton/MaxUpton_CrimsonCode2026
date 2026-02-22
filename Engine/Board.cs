@@ -216,5 +216,13 @@ namespace QuantumTicTacToe
             return _cells[index].IsCollapsed;
              
         }
+
+        /// <summary>
+        /// Returns true if all cells are collapsed (board is full).
+        /// </summary>
+        public bool IsFull()
+        {
+            return _cells.All(cell => cell.IsCollapsed);
+        }
     }
 }
