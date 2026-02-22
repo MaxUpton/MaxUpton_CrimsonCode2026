@@ -104,3 +104,4 @@ obj/
 *.dll
 *.pdb
 *.exe
+!UnityGame/**/*.exe
