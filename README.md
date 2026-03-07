@@ -7,10 +7,10 @@ This solution contains three projects:
   Target framework is `netstandard2.1` so the compiled DLL can be consumed by
   other .NET hosts (including Unity).
 
-* **QuantumTicTacToe** – a WinForms application that references the engine
+* **QuantumTicTacToe.csprog** – a WinForms application that references the engine
   library and provides a simple desktop UI. It targets `net7.0-windows`.
 
-* **QuantumTicTacToe** - a Unity application that references the engine
+* **QuantumTicTacToe.exe** - a Unity application that references the engine
   library and provides a more advanced game UI.
 
 The unity project is the culmination of my work on the other two 
