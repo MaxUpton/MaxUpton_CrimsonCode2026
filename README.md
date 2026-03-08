@@ -16,4 +16,8 @@ This solution contains three projects:
 The unity project is the culmination of my work on the other two 
 and what I am submitting for judgment at the 2026 crimson code hackathon
 
-
+This repository contains my work from the 2026 crimson code hackathon. 
+The theme was reinventing the wheel so I chose to take the game of Tic Tac Toe and give it a few new rules. 
+I chose this project becasue I was working as a team of one and wanted to be able to submit a complete project. 
+Overall I am pleased with the product I ended up with and feel good about the experience i gained coding in unity. 
+If i were to participate in this event again I would like to be part of a team and aim higher than I did this time. 
